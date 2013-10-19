@@ -3,10 +3,10 @@
   <groupId>ch.ethz.inf.vs</groupId>
   <artifactId>cf-root</artifactId>
   <versioning>
-    <release>0.13.6</release>
+    <release>0.13.7</release>
     <versions>
-      <version>0.13.6</version>
+      <version>0.13.7</version>
     </versions>
-    <lastUpdated>20131018095518</lastUpdated>
+    <lastUpdated>20131019184047</lastUpdated>
   </versioning>
 </metadata>

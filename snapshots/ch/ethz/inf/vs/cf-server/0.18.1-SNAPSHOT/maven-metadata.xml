@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>ch.ethz.inf.vs</groupId>
+  <artifactId>cf-server</artifactId>
+  <version>0.18.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131126.102611</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20131126102611</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.18.1-20131126.102611-1</value>
+        <updated>20131126102611</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.18.1-20131126.102611-1</value>
+        <updated>20131126102611</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>0.18.1-20131126.102611-1</value>
+        <updated>20131126102611</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

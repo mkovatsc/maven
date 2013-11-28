@@ -4,8 +4,8 @@
   <artifactId>cf-plugtest-client</artifactId>
   <versioning>
     <versions>
-      <version>0.18.1-SNAPSHOT</version>
+      <version>0.18.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20131126103429</lastUpdated>
+    <lastUpdated>20131128214644</lastUpdated>
   </versioning>
 </metadata>

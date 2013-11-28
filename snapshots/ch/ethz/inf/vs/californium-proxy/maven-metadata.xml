@@ -4,8 +4,8 @@
   <artifactId>californium-proxy</artifactId>
   <versioning>
     <versions>
-      <version>0.18.1-SNAPSHOT</version>
+      <version>0.18.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20131126103405</lastUpdated>
+    <lastUpdated>20131128214608</lastUpdated>
   </versioning>
 </metadata>

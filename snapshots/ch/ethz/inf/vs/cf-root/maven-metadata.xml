@@ -4,8 +4,8 @@
   <artifactId>cf-root</artifactId>
   <versioning>
     <versions>
-      <version>0.18.2-SNAPSHOT</version>
+      <version>0.18.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140117182237</lastUpdated>
+    <lastUpdated>20140205193148</lastUpdated>
   </versioning>
 </metadata>

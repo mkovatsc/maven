@@ -4,8 +4,8 @@
   <artifactId>cf-client</artifactId>
   <versioning>
     <versions>
-      <version>0.18.2-SNAPSHOT</version>
+      <version>0.18.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140117182319</lastUpdated>
+    <lastUpdated>20140205193226</lastUpdated>
   </versioning>
 </metadata>

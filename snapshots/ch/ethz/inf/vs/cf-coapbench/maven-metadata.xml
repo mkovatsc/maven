@@ -4,8 +4,8 @@
   <artifactId>cf-coapbench</artifactId>
   <versioning>
     <versions>
-      <version>0.18.3-SNAPSHOT</version>
+      <version>0.18.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140213193415</lastUpdated>
+    <lastUpdated>20140303122044</lastUpdated>
   </versioning>
 </metadata>

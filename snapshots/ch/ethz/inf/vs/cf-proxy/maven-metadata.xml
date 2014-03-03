@@ -4,8 +4,8 @@
   <artifactId>cf-proxy</artifactId>
   <versioning>
     <versions>
-      <version>0.18.3-SNAPSHOT</version>
+      <version>0.18.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140213193453</lastUpdated>
+    <lastUpdated>20140303122110</lastUpdated>
   </versioning>
 </metadata>

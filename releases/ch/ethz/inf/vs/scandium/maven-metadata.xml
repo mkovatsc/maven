@@ -3,10 +3,10 @@
   <groupId>ch.ethz.inf.vs</groupId>
   <artifactId>scandium</artifactId>
   <versioning>
-    <release>0.1.5</release>
+    <release>0.1.6-final</release>
     <versions>
-      <version>0.1.5</version>
+      <version>0.1.6-final</version>
     </versions>
-    <lastUpdated>20140326121127</lastUpdated>
+    <lastUpdated>20140408170147</lastUpdated>
   </versioning>
 </metadata>

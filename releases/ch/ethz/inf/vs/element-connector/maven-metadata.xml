@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ch.ethz.inf.vs</groupId>
+  <artifactId>element-connector</artifactId>
+  <versioning>
+    <release>0.2-final</release>
+    <versions>
+      <version>0.2-final</version>
+    </versions>
+    <lastUpdated>20140408165625</lastUpdated>
+  </versioning>
+</metadata>

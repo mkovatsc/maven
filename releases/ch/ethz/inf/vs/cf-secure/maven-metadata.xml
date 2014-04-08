@@ -3,10 +3,10 @@
   <groupId>ch.ethz.inf.vs</groupId>
   <artifactId>cf-secure</artifactId>
   <versioning>
-    <release>0.18.5</release>
+    <release>0.18.6-final</release>
     <versions>
-      <version>0.18.5</version>
+      <version>0.18.6-final</version>
     </versions>
-    <lastUpdated>20140326122913</lastUpdated>
+    <lastUpdated>20140408170752</lastUpdated>
   </versioning>
 </metadata>

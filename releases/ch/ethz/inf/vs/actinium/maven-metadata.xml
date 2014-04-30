@@ -3,10 +3,10 @@
   <groupId>ch.ethz.inf.vs</groupId>
   <artifactId>actinium</artifactId>
   <versioning>
-    <release>1.8.0</release>
+    <release>1.8.1-final</release>
     <versions>
-      <version>1.8.0</version>
+      <version>1.8.1-final</version>
     </versions>
-    <lastUpdated>20130924192825</lastUpdated>
+    <lastUpdated>20140430203343</lastUpdated>
   </versioning>
 </metadata>
